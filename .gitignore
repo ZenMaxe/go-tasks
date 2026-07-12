@@ -1,0 +1,2 @@
+# compiled binaries left behind by `go build` (no -o) in an exercise dir
+exercise-*/exercise-*
